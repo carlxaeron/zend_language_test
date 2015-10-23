@@ -1,0 +1,12 @@
+{
+    "name": "root/test",
+    "authors": [
+        {
+            "name": "carl louis  manuel",
+            "email": "carlxaeron09@gmail.com"
+        }
+    ],
+    "require": {
+        "zendframework/zendframework": "2.4.8"
+    }
+}
